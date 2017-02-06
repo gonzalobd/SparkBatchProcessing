@@ -1,4 +1,4 @@
-# pysparkBatchProcessing
+# SparkBatchProcessing
 
 This is a short example of batch processing of real data using Apache Spark 2.0.
 
