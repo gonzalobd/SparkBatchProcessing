@@ -1,6 +1,6 @@
 # SparkBatchProcessing
 
-This is a short example of batch processing of real data using Apache Spark 2.0.
+This is a short example of batch processing using spark's RDD API of real data with Apache Spark 2.0.
 
 # Introduction and Requirements
 
